@@ -1,0 +1,15 @@
+<meta charset ="UTF-8">
+<script>
+    	var p ,q ,r;
+	p = Number(prompt("Digite o valor de p: "));
+	q = Number(prompt("Digite o valor de q: "));
+	r = Number(prompt("Digite o valor de r: "));
+	
+		if(p == "v") && (q == "v") && (r == "v")
+		{
+		document.write("É uma Tautologia!)
+		}else
+		{
+		document.write("Não é uma tautologia!")
+		}
+</script>
